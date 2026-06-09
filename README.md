@@ -41,11 +41,6 @@ O fluxo realiza a importação de dados de estoque a partir de uma planilha Exce
 
 ✅ Exportação para Excel
 
----
-
-## Workflow
-
-![Workflow](imagens/workflow.png)
 
 ---
 
