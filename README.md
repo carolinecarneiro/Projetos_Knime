@@ -77,7 +77,7 @@ Durante este projeto foram aplicados conceitos de:
 
 ---
 
-## Dashboard interativo
+## Dashboard interativo - Feito no Power BI
 
 <img width="1277" height="822" alt="Dashboard_Knime-Project01" src="https://github.com/user-attachments/assets/b32877db-6f13-4e6d-bf2a-e950c2d39245" />
 
